@@ -31,7 +31,7 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
  <img src="https://github.com/ZineddineBk09/Spotify/blob/master/images/login.png"> 
  
 ## Home Page :
- ## Palylist 01 :
+ ### Palylist 01 :
  <img src="https://github.com/ZineddineBk09/Spotify/blob/master/images/home1.png"> 
- ## Palylist 02 :
+ ### Palylist 02 :
  <img src="https://github.com/ZineddineBk09/Spotify/blob/master/images/home2.png"> 
