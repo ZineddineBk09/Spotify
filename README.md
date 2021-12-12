@@ -28,7 +28,7 @@ Deploy it to the cloud with [Vercel](https://vercel.com/new?utm_source=github&ut
 
 # App Demo : 
  ## Login Page : 
- <img src="https://github.com/ZineddineBk09/Spotify/blob/master/images/login.png" width="700" height="600"> 
+ <img src="https://github.com/ZineddineBk09/Spotify/blob/master/images/login.png"> 
 ## Home Page:
  ### Palylist 01:
  <img src="https://github.com/ZineddineBk09/Spotify/blob/master/images/home1.png" width="700" height="600"> 
